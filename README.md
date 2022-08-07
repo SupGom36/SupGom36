@@ -16,6 +16,8 @@
 - 📫 How to reach me **supgom02@gmail.com**
 
 - ⚡ Fun fact **I hate Snapchat filters**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/4mnkCJuJ3R9wR3jmU8/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
