@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning with Python using Tensorflow**
 
-- 👯 I’m looking to collaborate on **coding projects on C and Python**
+- 👯 I’m looking to collaborate on **Projects on Python and Machine learning**
 
 - 🤝 I’m looking for help with **Software development using C and Python programming languages**
 
