@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supgom36" alt="supgom36" /></a> </p>
 
-- 🌱 I’m currently learning **C programming**
+- 🌱 I’m currently learning **Machine learning with Python using Tensorflow**
 
 - 👯 I’m looking to collaborate on **coding projects on C and Python**
 
